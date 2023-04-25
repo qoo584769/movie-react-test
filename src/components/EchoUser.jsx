@@ -30,13 +30,13 @@ export const Member = () => {
     }
   }
 
-  useEffect(()=>{    
+  // useEffect(()=>{    
     // axios.get('https://movietest-production.up.railway.app/movieInfo').then(res=>{
     //   console.log(res);
     // }).catch(err=>{
     //   console.log(err);
     // })
-  },[])
+  // },[])
   return (
     <>
       <form>
