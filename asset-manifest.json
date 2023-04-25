@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/movie-react-test/static/css/main.31d6cfe0.css",
-    "main.js": "/movie-react-test/static/js/main.7ed41104.js",
+    "main.js": "/movie-react-test/static/js/main.a4e1b5eb.js",
     "index.html": "/movie-react-test/index.html",
-    "main.7ed41104.js.map": "/movie-react-test/static/js/main.7ed41104.js.map"
+    "main.a4e1b5eb.js.map": "/movie-react-test/static/js/main.a4e1b5eb.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.7ed41104.js"
+    "static/js/main.a4e1b5eb.js"
   ]
 }
